@@ -1,0 +1,10 @@
+F:\magazine\Reference64\com.DAL.Base.dll
+F:\magazine\Reference64\com.DAL.Base.pdb
+F:\magazine\Dal\Dal.Base\obj\x64\Debug\ResolveAssemblyReference.cache
+F:\magazine\Dal\Dal.Base\obj\x64\Debug\com.DAL.Base.dll
+F:\magazine\Dal\Dal.Base\obj\x64\Debug\com.DAL.Base.pdb
+C:\Users\xuchunxi820\Desktop\mvcdemo\Reference\com.DAL.Base.dll
+C:\Users\xuchunxi820\Desktop\mvcdemo\Reference\com.DAL.Base.pdb
+C:\Users\xuchunxi820\Desktop\mvcdemo\DAL\Dal.Base\obj\x64\Debug\DAL.Base.csprojResolveAssemblyReference.cache
+C:\Users\xuchunxi820\Desktop\mvcdemo\DAL\Dal.Base\obj\x64\Debug\com.DAL.Base.dll
+C:\Users\xuchunxi820\Desktop\mvcdemo\DAL\Dal.Base\obj\x64\Debug\com.DAL.Base.pdb

@@ -1,0 +1,99 @@
+F:\Work\blog\Reference\com.jk39.Model.Base.dll
+F:\Work\blog\Reference\com.jk39.Model.Base.pdb
+F:\Work\blog\Model\Base\obj\Debug\ResolveAssemblyReference.cache
+F:\Work\blog\Model\Base\obj\Debug\com.jk39.Model.Base.dll
+F:\Work\blog\Model\Base\obj\Debug\com.jk39.Model.Base.pdb
+F:\Work\com\jk39\Reference\com.jk39.Model.Base.dll
+F:\Work\com\jk39\Reference\com.jk39.Model.Base.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\Reference\com.Model.Base.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\Reference\com.Model.Base.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\Model\Base\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新建文件夹\Model\Base\obj\Debug\com.Model.Base.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\Model\Base\obj\Debug\com.Model.Base.pdb
+F:\WenYue\WenYue\Reference\com.Model.Base.dll
+F:\WenYue\WenYue\Reference\com.Model.Base.pdb
+F:\WenYue\WenYue\Model\Model.Base\obj\Debug\ResolveAssemblyReference.cache
+F:\WenYue\WenYue\Model\Model.Base\obj\Debug\com.Model.Base.dll
+F:\WenYue\WenYue\Model\Model.Base\obj\Debug\com.Model.Base.pdb
+F:\WenYue\Reference\com.Model.Base.dll
+F:\WenYue\Reference\com.Model.Base.pdb
+F:\WenYue\Project\Model\Model.Base\obj\Debug\ResolveAssemblyReference.cache
+F:\WenYue\Project\Model\Model.Base\obj\Debug\com.Model.Base.dll
+F:\WenYue\Project\Model\Model.Base\obj\Debug\com.Model.Base.pdb
+F:\Reference\com.Model.Base.dll
+F:\Reference\com.Model.Base.pdb
+F:\periodical\Model\Model.Base\obj\Debug\ResolveAssemblyReference.cache
+F:\periodical\Model\Model.Base\obj\Debug\com.Model.Base.dll
+F:\periodical\Model\Model.Base\obj\Debug\com.Model.Base.pdb
+F:\periodical\Reference\com.Model.Base.dll
+F:\periodical\Reference\com.Model.Base.pdb
+F:\hbcdc\Reference\com.Model.Base.dll
+F:\hbcdc\Reference\com.Model.Base.pdb
+F:\hbcdc\Model\Model.base\obj\Debug\ResolveAssemblyReference.cache
+F:\hbcdc\Model\Model.base\obj\Debug\com.Model.Base.dll
+F:\hbcdc\Model\Model.base\obj\Debug\com.Model.Base.pdb
+F:\magazine\Reference\com.Model.Base.dll
+F:\magazine\Reference\com.Model.Base.pdb
+F:\magazine\Model\Model.base\obj\Debug\ResolveAssemblyReference.cache
+F:\magazine\Model\Model.base\obj\Debug\com.Model.Base.dll
+F:\magazine\Model\Model.base\obj\Debug\com.Model.Base.pdb
+E:\magazine\Reference\com.Model.Base.dll
+E:\magazine\Reference\com.Model.Base.pdb
+E:\magazine\Model\Model.base\obj\Debug\ResolveAssemblyReference.cache
+E:\magazine\Model\Model.base\obj\Debug\com.Model.Base.dll
+E:\magazine\Model\Model.base\obj\Debug\com.Model.Base.pdb
+C:\Documents and Settings\xuj.ICBASE\桌面\ruanmou\Reference\com.Model.Base.dll
+C:\Documents and Settings\xuj.ICBASE\桌面\ruanmou\Reference\com.Model.Base.pdb
+C:\Documents and Settings\xuj.ICBASE\桌面\ruanmou\Model\Model.base\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\xuj.ICBASE\桌面\ruanmou\Model\Model.base\obj\Debug\com.Model.Base.dll
+C:\Documents and Settings\xuj.ICBASE\桌面\ruanmou\Model\Model.base\obj\Debug\com.Model.Base.pdb
+C:\Documents and Settings\xuj.ICBASE\桌面\网站\ruanmou\Reference\com.Model.Base.dll
+C:\Documents and Settings\xuj.ICBASE\桌面\网站\ruanmou\Reference\com.Model.Base.pdb
+C:\Documents and Settings\xuj.ICBASE\桌面\网站\ruanmou\Model\Model.base\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\xuj.ICBASE\桌面\网站\ruanmou\Model\Model.base\obj\Debug\com.Model.Base.dll
+C:\Documents and Settings\xuj.ICBASE\桌面\网站\ruanmou\Model\Model.base\obj\Debug\com.Model.Base.pdb
+C:\Users\Administrator.Q0T1X76NEFOCSLM\Desktop\网站\网站\ruanmou\Reference\com.Model.Base.dll
+C:\Users\Administrator.Q0T1X76NEFOCSLM\Desktop\网站\网站\ruanmou\Reference\com.Model.Base.pdb
+C:\Users\Administrator.Q0T1X76NEFOCSLM\Desktop\网站\网站\ruanmou\Model\Model.base\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator.Q0T1X76NEFOCSLM\Desktop\网站\网站\ruanmou\Model\Model.base\obj\Debug\com.Model.Base.dll
+C:\Users\Administrator.Q0T1X76NEFOCSLM\Desktop\网站\网站\ruanmou\Model\Model.base\obj\Debug\com.Model.Base.pdb
+F:\ruanmou\Reference\com.Model.Base.dll
+F:\ruanmou\Reference\com.Model.Base.pdb
+F:\ruanmou\Model\Model.base\obj\Debug\ResolveAssemblyReference.cache
+F:\ruanmou\Model\Model.base\obj\Debug\com.Model.Base.dll
+F:\ruanmou\Model\Model.base\obj\Debug\com.Model.Base.pdb
+E:\网站\ruanmou\Reference\com.Model.Base.dll
+E:\网站\ruanmou\Reference\com.Model.Base.pdb
+E:\网站\ruanmou\Model\Model.base\obj\Debug\ResolveAssemblyReference.cache
+E:\网站\ruanmou\Model\Model.base\obj\Debug\com.Model.Base.dll
+E:\网站\ruanmou\Model\Model.base\obj\Debug\com.Model.Base.pdb
+F:\软谋\网站\ruanmou\Reference\com.Model.Base.dll
+F:\软谋\网站\ruanmou\Reference\com.Model.Base.pdb
+F:\软谋\网站\ruanmou\Model\Model.base\obj\Debug\ResolveAssemblyReference.cache
+F:\软谋\网站\ruanmou\Model\Model.base\obj\Debug\com.Model.Base.dll
+F:\软谋\网站\ruanmou\Model\Model.base\obj\Debug\com.Model.Base.pdb
+C:\Users\xuchunxi820\Desktop\ruanmounew\Reference\com.Model.Base.dll
+C:\Users\xuchunxi820\Desktop\ruanmounew\Reference\com.Model.Base.pdb
+C:\Users\xuchunxi820\Desktop\ruanmounew\model\Model.base\obj\Debug\com.Model.Base.dll
+C:\Users\xuchunxi820\Desktop\ruanmounew\model\Model.base\obj\Debug\com.Model.Base.pdb
+C:\Users\xuchunxi820\Desktop\mvc\Reference\com.Model.Base.dll
+C:\Users\xuchunxi820\Desktop\mvc\Reference\com.Model.Base.pdb
+C:\Users\xuchunxi820\Desktop\mvc\Model\Model.base\obj\Debug\com.Model.Base.dll
+C:\Users\xuchunxi820\Desktop\mvc\Model\Model.base\obj\Debug\com.Model.Base.pdb
+C:\Users\xuchunxi820\Desktop\mvcdemo\Reference\com.Model.Base.dll
+C:\Users\xuchunxi820\Desktop\mvcdemo\Reference\com.Model.Base.pdb
+C:\Users\xuchunxi820\Desktop\mvcdemo\Model\Model.base\obj\Debug\com.Model.Base.dll
+C:\Users\xuchunxi820\Desktop\mvcdemo\Model\Model.base\obj\Debug\com.Model.Base.pdb
+G:\软谋网站\Reference\com.Model.Base.dll
+G:\软谋网站\Reference\com.Model.Base.pdb
+G:\软谋网站\Model\Model.base\obj\Debug\com.Model.Base.dll
+G:\软谋网站\Model\Model.base\obj\Debug\com.Model.Base.pdb
+G:\软谋网站\Model\Model.base\obj\Debug\Model.Base.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\demo20141022_2\Reference\com.Model.Base.dll
+C:\Users\Administrator\Desktop\demo20141022_2\Reference\com.Model.Base.pdb
+C:\Users\Administrator\Desktop\demo20141022_2\Model\Model.base\obj\Debug\com.Model.Base.dll
+C:\Users\Administrator\Desktop\demo20141022_2\Model\Model.base\obj\Debug\com.Model.Base.pdb
+G:\源代码\C#源码\AjaxList\Reference\com.Model.Base.dll
+G:\源代码\C#源码\AjaxList\Reference\com.Model.Base.pdb
+G:\源代码\C#源码\AjaxList\Model\Model.base\obj\Debug\com.Model.Base.dll
+G:\源代码\C#源码\AjaxList\Model\Model.base\obj\Debug\com.Model.Base.pdb

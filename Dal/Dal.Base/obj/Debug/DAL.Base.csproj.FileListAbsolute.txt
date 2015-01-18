@@ -1,0 +1,108 @@
+E:\blog\DAL\Base\obj\Debug\ResolveAssemblyReference.cache
+E:\blog\Reference\com.jk39.DAL.Base.dll
+E:\blog\Reference\com.jk39.DAL.Base.pdb
+E:\blog\DAL\Base\obj\Debug\com.jk39.DAL.Base.dll
+E:\blog\DAL\Base\obj\Debug\com.jk39.DAL.Base.pdb
+F:\Work\blog\DAL\Base\obj\Debug\ResolveAssemblyReference.cache
+F:\Work\blog\DAL\Base\obj\Debug\com.jk39.DAL.Base.pdb
+F:\Work\blog\Reference\com.jk39.DAL.Base.dll
+F:\Work\blog\Reference\com.jk39.DAL.Base.pdb
+F:\Work\blog\DAL\Base\obj\Debug\com.jk39.DAL.Base.dll
+F:\Work\com\jk39\Reference\com.jk39.DAL.Base.dll
+F:\Work\com\jk39\Reference\com.jk39.DAL.Base.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\DAL\Base\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新建文件夹\Reference\com.DAL.Base.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\Reference\com.DAL.Base.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\DAL\Base\obj\Debug\com.DAL.Base.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\DAL\Base\obj\Debug\com.DAL.Base.pdb
+F:\WenYue\WenYue\Reference\com.DAL.Base.dll
+F:\WenYue\WenYue\Reference\com.DAL.Base.pdb
+F:\WenYue\WenYue\Dal\Dal.Base\obj\Debug\ResolveAssemblyReference.cache
+F:\WenYue\WenYue\Dal\Dal.Base\obj\Debug\com.DAL.Base.dll
+F:\WenYue\WenYue\Dal\Dal.Base\obj\Debug\com.DAL.Base.pdb
+F:\WenYue\Reference\com.DAL.Base.dll
+F:\WenYue\Reference\com.DAL.Base.pdb
+F:\WenYue\Project\Dal\Dal.Base\obj\Debug\ResolveAssemblyReference.cache
+F:\WenYue\Project\Dal\Dal.Base\obj\Debug\com.DAL.Base.dll
+F:\WenYue\Project\Dal\Dal.Base\obj\Debug\com.DAL.Base.pdb
+F:\periodical\Dal\Dal.Base\obj\Debug\ResolveAssemblyReference.cache
+F:\periodical\Dal\Dal.Base\obj\Debug\com.DAL.Base.dll
+F:\periodical\Dal\Dal.Base\obj\Debug\com.DAL.Base.pdb
+F:\periodical\Reference\com.DAL.Base.dll
+F:\periodical\Reference\com.DAL.Base.pdb
+F:\hbcdc\Reference\com.DAL.Base.dll
+F:\hbcdc\Reference\com.DAL.Base.pdb
+F:\hbcdc\Dal\Dal.Base\obj\Debug\ResolveAssemblyReference.cache
+F:\hbcdc\Dal\Dal.Base\obj\Debug\com.DAL.Base.dll
+F:\hbcdc\Dal\Dal.Base\obj\Debug\com.DAL.Base.pdb
+F:\magazine\Dal\Dal.Base\obj\Debug\ResolveAssemblyReference.cache
+F:\magazine\Reference\com.DAL.Base.dll
+F:\magazine\Reference\com.DAL.Base.pdb
+F:\magazine\Dal\Dal.Base\obj\Debug\com.DAL.Base.dll
+F:\magazine\Dal\Dal.Base\obj\Debug\com.DAL.Base.pdb
+E:\magazine\Reference\com.DAL.Base.dll
+E:\magazine\Reference\com.DAL.Base.pdb
+E:\magazine\Dal\Dal.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\magazine\Dal\Dal.Base\obj\Debug\com.DAL.Base.dll
+E:\magazine\Dal\Dal.Base\obj\Debug\com.DAL.Base.pdb
+C:\Documents and Settings\xuj.ICBASE\桌面\ruanmou\Dal\Dal.Base\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\xuj.ICBASE\桌面\ruanmou\Dal\Dal.Base\obj\Debug\com.DAL.Base.pdb
+C:\Documents and Settings\xuj.ICBASE\桌面\ruanmou\Reference\com.DAL.Base.dll
+C:\Documents and Settings\xuj.ICBASE\桌面\ruanmou\Reference\com.DAL.Base.pdb
+C:\Documents and Settings\xuj.ICBASE\桌面\ruanmou\Dal\Dal.Base\obj\Debug\com.DAL.Base.dll
+C:\Documents and Settings\xuj.ICBASE\桌面\网站\ruanmou\Reference\com.DAL.Base.dll
+C:\Documents and Settings\xuj.ICBASE\桌面\网站\ruanmou\Reference\com.DAL.Base.pdb
+C:\Documents and Settings\xuj.ICBASE\桌面\网站\ruanmou\Dal\Dal.Base\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\xuj.ICBASE\桌面\网站\ruanmou\Dal\Dal.Base\obj\Debug\com.DAL.Base.dll
+C:\Documents and Settings\xuj.ICBASE\桌面\网站\ruanmou\Dal\Dal.Base\obj\Debug\com.DAL.Base.pdb
+C:\Users\Administrator.Q0T1X76NEFOCSLM\Desktop\网站\网站\ruanmou\Reference\com.DAL.Base.dll
+C:\Users\Administrator.Q0T1X76NEFOCSLM\Desktop\网站\网站\ruanmou\Reference\com.DAL.Base.pdb
+C:\Users\Administrator.Q0T1X76NEFOCSLM\Desktop\网站\网站\ruanmou\Dal\Dal.Base\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator.Q0T1X76NEFOCSLM\Desktop\网站\网站\ruanmou\Dal\Dal.Base\obj\Debug\com.DAL.Base.dll
+C:\Users\Administrator.Q0T1X76NEFOCSLM\Desktop\网站\网站\ruanmou\Dal\Dal.Base\obj\Debug\com.DAL.Base.pdb
+F:\ruanmou\Reference\com.DAL.Base.dll
+F:\ruanmou\Reference\com.DAL.Base.pdb
+F:\ruanmou\Dal\Dal.Base\obj\Debug\ResolveAssemblyReference.cache
+F:\ruanmou\Dal\Dal.Base\obj\Debug\com.DAL.Base.dll
+F:\ruanmou\Dal\Dal.Base\obj\Debug\com.DAL.Base.pdb
+E:\网站\ruanmou\Reference\com.DAL.Base.dll
+E:\网站\ruanmou\Reference\com.DAL.Base.pdb
+E:\网站\ruanmou\Dal\Dal.Base\obj\Debug\ResolveAssemblyReference.cache
+E:\网站\ruanmou\Dal\Dal.Base\obj\Debug\com.DAL.Base.dll
+E:\网站\ruanmou\Dal\Dal.Base\obj\Debug\com.DAL.Base.pdb
+F:\软谋\网站\ruanmou\Reference\com.DAL.Base.dll
+F:\软谋\网站\ruanmou\Reference\com.DAL.Base.pdb
+F:\软谋\网站\ruanmou\Dal\Dal.Base\obj\Debug\ResolveAssemblyReference.cache
+F:\软谋\网站\ruanmou\Dal\Dal.Base\obj\Debug\com.DAL.Base.dll
+F:\软谋\网站\ruanmou\Dal\Dal.Base\obj\Debug\com.DAL.Base.pdb
+C:\Users\xuchunxi820\Desktop\ruanmounew\Reference\com.DAL.Base.dll
+C:\Users\xuchunxi820\Desktop\ruanmounew\Reference\com.DAL.Base.pdb
+C:\Users\xuchunxi820\Desktop\ruanmounew\dal\Dal.Base\obj\Debug\DAL.Base.csprojResolveAssemblyReference.cache
+C:\Users\xuchunxi820\Desktop\ruanmounew\dal\Dal.Base\obj\Debug\com.DAL.Base.dll
+C:\Users\xuchunxi820\Desktop\ruanmounew\dal\Dal.Base\obj\Debug\com.DAL.Base.pdb
+C:\Users\xuchunxi820\Desktop\mvc\DAL\Dal.Base\obj\Debug\DAL.Base.csprojResolveAssemblyReference.cache
+C:\Users\xuchunxi820\Desktop\mvc\DAL\Dal.Base\obj\Debug\com.DAL.Base.pdb
+C:\Users\xuchunxi820\Desktop\mvc\Reference\com.DAL.Base.dll
+C:\Users\xuchunxi820\Desktop\mvc\Reference\com.DAL.Base.pdb
+C:\Users\xuchunxi820\Desktop\mvc\DAL\Dal.Base\obj\Debug\com.DAL.Base.dll
+C:\Users\xuchunxi820\Desktop\mvcdemo\Reference\com.DAL.Base.dll
+C:\Users\xuchunxi820\Desktop\mvcdemo\Reference\com.DAL.Base.pdb
+C:\Users\xuchunxi820\Desktop\mvcdemo\DAL\Dal.Base\obj\Debug\DAL.Base.csprojResolveAssemblyReference.cache
+C:\Users\xuchunxi820\Desktop\mvcdemo\DAL\Dal.Base\obj\Debug\com.DAL.Base.dll
+C:\Users\xuchunxi820\Desktop\mvcdemo\DAL\Dal.Base\obj\Debug\com.DAL.Base.pdb
+G:\软谋网站\Reference\com.DAL.Base.dll
+G:\软谋网站\Reference\com.DAL.Base.pdb
+G:\软谋网站\DAL\Dal.Base\obj\Debug\DAL.Base.csprojResolveAssemblyReference.cache
+G:\软谋网站\DAL\Dal.Base\obj\Debug\com.DAL.Base.dll
+G:\软谋网站\DAL\Dal.Base\obj\Debug\com.DAL.Base.pdb
+C:\Users\Administrator\Desktop\文档\adonetdemo\Reference\com.DAL.Base.dll
+C:\Users\Administrator\Desktop\文档\adonetdemo\Reference\com.DAL.Base.pdb
+C:\Users\Administrator\Desktop\demo20141022_2\Dal\Dal.Base\obj\Debug\DAL.Base.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\demo20141022_2\Reference\com.DAL.Base.dll
+C:\Users\Administrator\Desktop\demo20141022_2\Reference\com.DAL.Base.pdb
+C:\Users\Administrator\Desktop\demo20141022_2\Dal\Dal.Base\obj\Debug\com.DAL.Base.dll
+C:\Users\Administrator\Desktop\demo20141022_2\Dal\Dal.Base\obj\Debug\com.DAL.Base.pdb
+G:\源代码\C#源码\AjaxList\Reference\com.DAL.Base.dll
+G:\源代码\C#源码\AjaxList\Reference\com.DAL.Base.pdb
+G:\源代码\C#源码\AjaxList\Dal\Dal.Base\obj\Debug\com.DAL.Base.dll
+G:\源代码\C#源码\AjaxList\Dal\Dal.Base\obj\Debug\com.DAL.Base.pdb

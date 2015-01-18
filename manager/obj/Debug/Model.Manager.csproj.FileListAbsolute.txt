@@ -1,0 +1,8 @@
+G:\源代码\C#源码\AjaxList\manager\bin\Debug\manager.dll
+G:\源代码\C#源码\AjaxList\manager\bin\Debug\manager.pdb
+G:\源代码\C#源码\AjaxList\manager\bin\Debug\com.Model.Base.dll
+G:\源代码\C#源码\AjaxList\manager\bin\Debug\com.Model.Base.pdb
+G:\源代码\C#源码\AjaxList\Reference\com.manager.dll
+G:\源代码\C#源码\AjaxList\Reference\com.manager.pdb
+G:\源代码\C#源码\AjaxList\manager\obj\Debug\com.manager.dll
+G:\源代码\C#源码\AjaxList\manager\obj\Debug\com.manager.pdb

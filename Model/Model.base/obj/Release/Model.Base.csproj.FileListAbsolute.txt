@@ -1,0 +1,8 @@
+F:\Work\com\jk39\Reference\com.jk39.Model.Base.dll
+E:\blog\Model\Base\obj\Release\ResolveAssemblyReference.cache
+E:\blog\Model\Base\obj\Release\com.jk39.Model.Base.dll
+E:\blog\Model\Base\obj\Release\com.jk39.Model.Base.pdb
+F:\Work\blog\Model\Base\obj\Release\ResolveAssemblyReference.cache
+F:\Work\blog\Model\Base\obj\Release\com.jk39.Model.Base.dll
+F:\Work\blog\Model\Base\obj\Release\com.jk39.Model.Base.pdb
+F:\Work\com\jk39\Reference\com.jk39.Model.Base.pdb

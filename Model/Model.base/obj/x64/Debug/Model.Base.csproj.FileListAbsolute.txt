@@ -1,0 +1,9 @@
+F:\magazine\Reference\com.Model.Base.dll
+F:\magazine\Reference\com.Model.Base.pdb
+F:\magazine\Model\Model.base\obj\x64\Debug\ResolveAssemblyReference.cache
+F:\magazine\Model\Model.base\obj\x64\Debug\com.Model.Base.dll
+F:\magazine\Model\Model.base\obj\x64\Debug\com.Model.Base.pdb
+C:\Users\xuchunxi820\Desktop\mvcdemo\Reference\com.Model.Base.dll
+C:\Users\xuchunxi820\Desktop\mvcdemo\Reference\com.Model.Base.pdb
+C:\Users\xuchunxi820\Desktop\mvcdemo\Model\Model.base\obj\x64\Debug\com.Model.Base.dll
+C:\Users\xuchunxi820\Desktop\mvcdemo\Model\Model.base\obj\x64\Debug\com.Model.Base.pdb

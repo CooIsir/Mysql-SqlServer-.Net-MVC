@@ -1,0 +1,19 @@
+﻿body {
+}
+#listCon {
+    margin: 0 auto;
+    width: 80%;
+     
+}
+#listCon ul li{
+    list-style: none;
+    
+    float: left;
+    height: 100px;
+    width: 15%;
+    overflow: hidden;
+    margin-bottom: 20px;
+    margin-left: -1px;
+    margin-right: -1px;
+    border: 1px solid red;
+}

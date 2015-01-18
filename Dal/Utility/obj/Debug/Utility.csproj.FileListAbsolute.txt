@@ -1,0 +1,112 @@
+F:\Work\com\jk39\Reference\com.jk39.Utility.dll
+F:\Work\com\jk39\Reference\com.jk39.Utility.pdb
+F:\Work\com\jk39\Utility\obj\Debug\ResolveAssemblyReference.cache
+F:\Work\com\jk39\Utility\obj\Debug\com.jk39.Utility.dll
+F:\Work\com\jk39\Utility\obj\Debug\com.jk39.Utility.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\Reference\com.Utility.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\Reference\com.Utility.pdb
+C:\Documents and Settings\Administrator\桌面\新建文件夹\Utility\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\新建文件夹\Utility\obj\Debug\com.Utility.dll
+C:\Documents and Settings\Administrator\桌面\新建文件夹\Utility\obj\Debug\com.Utility.pdb
+F:\WenYue\WenYue\Dal\Reference\com.Utility.dll
+F:\WenYue\WenYue\Dal\Reference\com.Utility.pdb
+F:\WenYue\WenYue\Dal\Utility\obj\Debug\ResolveAssemblyReference.cache
+F:\WenYue\WenYue\Dal\Utility\obj\Debug\com.Utility.dll
+F:\WenYue\WenYue\Dal\Utility\obj\Debug\com.Utility.pdb
+F:\WenYue\WenYue\Reference\com.Utility.dll
+F:\WenYue\WenYue\Reference\com.Utility.pdb
+F:\WenYue\Reference\com.Utility.dll
+F:\WenYue\Reference\com.Utility.pdb
+F:\WenYue\Project\Dal\Utility\obj\Debug\ResolveAssemblyReference.cache
+F:\WenYue\Project\Dal\Utility\obj\Debug\com.Utility.dll
+F:\WenYue\Project\Dal\Utility\obj\Debug\com.Utility.pdb
+F:\Reference\com.Utility.dll
+F:\Reference\com.Utility.pdb
+F:\periodical\Dal\Utility\obj\Debug\ResolveAssemblyReference.cache
+F:\periodical\Dal\Utility\obj\Debug\com.Utility.dll
+F:\periodical\Dal\Utility\obj\Debug\com.Utility.pdb
+F:\periodical\Reference\com.Utility.dll
+F:\periodical\Reference\com.Utility.pdb
+F:\hbcdc\Reference\com.Utility.dll
+F:\hbcdc\Reference\com.Utility.pdb
+F:\hbcdc\Dal\Utility\obj\Debug\ResolveAssemblyReference.cache
+F:\hbcdc\Dal\Utility\obj\Debug\com.Utility.dll
+F:\hbcdc\Dal\Utility\obj\Debug\com.Utility.pdb
+F:\magazine\Reference\com.Utility.dll
+F:\magazine\Reference\com.Utility.pdb
+F:\magazine\Dal\Utility\obj\Debug\ResolveAssemblyReference.cache
+F:\magazine\Dal\Utility\obj\Debug\com.Utility.dll
+F:\magazine\Dal\Utility\obj\Debug\com.Utility.pdb
+E:\ST\STWEB\Reference\com.Utility.dll
+E:\ST\STWEB\Reference\com.Utility.pdb
+E:\ST\STWEB\STDal\Utility\obj\Debug\ResolveAssemblyReference.cache
+E:\ST\STWEB\STDal\Utility\obj\Debug\com.Utility.dll
+E:\ST\STWEB\STDal\Utility\obj\Debug\com.Utility.pdb
+E:\icbasenew\Reference\com.Utility.dll
+E:\icbasenew\Reference\com.Utility.pdb
+E:\icbasenew\Dal\Utility\obj\Debug\ResolveAssemblyReference.cache
+E:\icbasenew\Dal\Utility\obj\Debug\com.Utility.dll
+E:\icbasenew\Dal\Utility\obj\Debug\com.Utility.pdb
+C:\Documents and Settings\xuj.ICBASE\桌面\网站\ruanmou\Reference\com.Utility.dll.config
+C:\Documents and Settings\xuj.ICBASE\桌面\网站\ruanmou\Reference\com.Utility.dll
+C:\Documents and Settings\xuj.ICBASE\桌面\网站\ruanmou\Reference\com.Utility.pdb
+C:\Documents and Settings\xuj.ICBASE\桌面\网站\ruanmou\Dal\Utility\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\xuj.ICBASE\桌面\网站\ruanmou\Dal\Utility\obj\Debug\com.Utility.dll
+C:\Documents and Settings\xuj.ICBASE\桌面\网站\ruanmou\Dal\Utility\obj\Debug\com.Utility.pdb
+C:\Users\Administrator.Q0T1X76NEFOCSLM\Desktop\网站\网站\ruanmou\Reference\com.Utility.dll.config
+C:\Users\Administrator.Q0T1X76NEFOCSLM\Desktop\网站\网站\ruanmou\Reference\com.Utility.dll
+C:\Users\Administrator.Q0T1X76NEFOCSLM\Desktop\网站\网站\ruanmou\Reference\com.Utility.pdb
+C:\Users\Administrator.Q0T1X76NEFOCSLM\Desktop\网站\网站\ruanmou\Dal\Utility\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator.Q0T1X76NEFOCSLM\Desktop\网站\网站\ruanmou\Dal\Utility\obj\Debug\com.Utility.dll
+C:\Users\Administrator.Q0T1X76NEFOCSLM\Desktop\网站\网站\ruanmou\Dal\Utility\obj\Debug\com.Utility.pdb
+F:\ruanmou\Reference\com.Utility.dll.config
+F:\ruanmou\Reference\com.Utility.dll
+F:\ruanmou\Reference\com.Utility.pdb
+F:\ruanmou\Dal\Utility\obj\Debug\ResolveAssemblyReference.cache
+F:\ruanmou\Dal\Utility\obj\Debug\com.Utility.dll
+F:\ruanmou\Dal\Utility\obj\Debug\com.Utility.pdb
+E:\网站\ruanmou\Reference\com.Utility.dll.config
+E:\网站\ruanmou\Reference\com.Utility.dll
+E:\网站\ruanmou\Reference\com.Utility.pdb
+E:\网站\ruanmou\Dal\Utility\obj\Debug\ResolveAssemblyReference.cache
+E:\网站\ruanmou\Dal\Utility\obj\Debug\com.Utility.dll
+E:\网站\ruanmou\Dal\Utility\obj\Debug\com.Utility.pdb
+F:\软谋\网站\ruanmou\Reference\com.Utility.dll.config
+F:\软谋\网站\ruanmou\Reference\com.Utility.dll
+F:\软谋\网站\ruanmou\Reference\com.Utility.pdb
+F:\软谋\网站\ruanmou\Dal\Utility\obj\Debug\ResolveAssemblyReference.cache
+F:\软谋\网站\ruanmou\Dal\Utility\obj\Debug\com.Utility.dll
+F:\软谋\网站\ruanmou\Dal\Utility\obj\Debug\com.Utility.pdb
+C:\Users\xuchunxi820\Desktop\ruanmounew\Reference\com.Utility.dll.config
+C:\Users\xuchunxi820\Desktop\ruanmounew\Reference\com.Utility.dll
+C:\Users\xuchunxi820\Desktop\ruanmounew\Reference\com.Utility.pdb
+C:\Users\xuchunxi820\Desktop\ruanmounew\dal\Utility\obj\Debug\com.Utility.dll
+C:\Users\xuchunxi820\Desktop\ruanmounew\dal\Utility\obj\Debug\com.Utility.pdb
+C:\Users\xuchunxi820\Desktop\mvc\Reference\com.Utility.dll.config
+C:\Users\xuchunxi820\Desktop\mvc\Reference\com.Utility.dll
+C:\Users\xuchunxi820\Desktop\mvc\Reference\com.Utility.pdb
+C:\Users\xuchunxi820\Desktop\mvc\DAL\Utility\obj\Debug\com.Utility.dll
+C:\Users\xuchunxi820\Desktop\mvc\DAL\Utility\obj\Debug\com.Utility.pdb
+C:\Users\xuchunxi820\Desktop\mvc\DAL\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache
+C:\Users\xuchunxi820\Desktop\mvcdemo\Reference\com.Utility.dll.config
+C:\Users\xuchunxi820\Desktop\mvcdemo\Reference\com.Utility.dll
+C:\Users\xuchunxi820\Desktop\mvcdemo\Reference\com.Utility.pdb
+C:\Users\xuchunxi820\Desktop\mvcdemo\DAL\Utility\obj\Debug\com.Utility.dll
+C:\Users\xuchunxi820\Desktop\mvcdemo\DAL\Utility\obj\Debug\com.Utility.pdb
+G:\软谋网站\Reference\com.Utility.dll.config
+G:\软谋网站\Reference\com.Utility.dll
+G:\软谋网站\Reference\com.Utility.pdb
+G:\软谋网站\DAL\Utility\obj\Debug\com.Utility.dll
+G:\软谋网站\DAL\Utility\obj\Debug\com.Utility.pdb
+G:\软谋网站\DAL\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\demo20141022_2\Reference\com.Utility.dll.config
+C:\Users\Administrator\Desktop\demo20141022_2\Reference\com.Utility.dll
+C:\Users\Administrator\Desktop\demo20141022_2\Reference\com.Utility.pdb
+C:\Users\Administrator\Desktop\demo20141022_2\Dal\Utility\obj\Debug\com.Utility.dll
+C:\Users\Administrator\Desktop\demo20141022_2\Dal\Utility\obj\Debug\com.Utility.pdb
+G:\源代码\C#源码\AjaxList\Reference\com.Utility.dll.config
+G:\源代码\C#源码\AjaxList\Reference\com.Utility.dll
+G:\源代码\C#源码\AjaxList\Reference\com.Utility.pdb
+G:\源代码\C#源码\AjaxList\Dal\Utility\obj\Debug\Utility.csprojResolveAssemblyReference.cache
+G:\源代码\C#源码\AjaxList\Dal\Utility\obj\Debug\com.Utility.dll
+G:\源代码\C#源码\AjaxList\Dal\Utility\obj\Debug\com.Utility.pdb

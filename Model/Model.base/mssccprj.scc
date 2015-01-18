@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[Model.Base.csproj]
+SCC_Aux_Path = "\\172.16.3.5\DataBase"
+SCC_Project_Name = "$/com/jk39/Model/Base", TQDEAAAA

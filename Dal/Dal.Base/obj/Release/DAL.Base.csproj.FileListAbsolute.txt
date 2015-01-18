@@ -1,0 +1,7 @@
+E:\blog\Reference\com.jk39.DAL.Base.dll
+E:\blog\Reference\com.jk39.DAL.Base.pdb
+E:\blog\DAL\Base\obj\Release\ResolveAssemblyReference.cache
+E:\blog\DAL\Base\obj\Release\com.jk39.DAL.Base.dll
+E:\blog\DAL\Base\obj\Release\com.jk39.DAL.Base.pdb
+F:\Work\com\jk39\Reference\com.jk39.DAL.Base.dll
+F:\Work\com\jk39\Reference\com.jk39.DAL.Base.pdb
